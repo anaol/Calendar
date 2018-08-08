@@ -2,12 +2,12 @@ This is a website in PHP created for learning purposes using the FullCalendar.io
 # Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## Prerequisites
+### Prerequisites
 
 - XAMPP
 - VisualCode, Atom, Notepad++.
 
-## Running
+### Running
 
 Go to https://www.apachefriends.org/ and download the program for your operating system. Install it in your computer, 
 and open the control panel and Start Apache and MySql. In the MySql on the control panel click on Admin and click on New. 
